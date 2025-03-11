@@ -20,7 +20,7 @@ Follow these steps to set up the project locally:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/ParasJain1803/MegaPosts.git
+   git clone https://github.com/shreyasharma1308/MegaPosts.git
    cd MegaPosts
    ```
 
@@ -66,5 +66,5 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
-We hope you enjoy using MegaPosts! If you encounter any issues or have suggestions, feel free to [open an issue](https://github.com/ParasJain1803/MegaPosts/issues).
+We hope you enjoy using MegaPosts! If you encounter any issues or have suggestions, feel free to [open an issue](https://github.com/shreyasharma1308/MegaPosts/issues).
 
